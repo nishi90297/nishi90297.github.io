@@ -422,7 +422,7 @@ section.quotes p {
   width:150px !important;
   margin-top:10px !important;
   margin-bottom:10px !important;
-  border-radius:50%;
+  border-radius:10%;
   border-style:none;
   border: 0px solid !important;
 }
