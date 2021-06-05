@@ -426,6 +426,14 @@ section.quotes p {
   border-style:none;
   border: 0px solid !important;
 }
+.skills_img{
+ width:150px !important;
+  margin-top:10px !important;
+  margin-bottom:10px !important;
+  border-radius:10%;
+  border-style:none;
+  border: 0px solid !important;
+}
 section.coffeewithme {
   /*background:#ffc548;*/
   background:#fff;
